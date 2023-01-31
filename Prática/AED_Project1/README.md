@@ -5,7 +5,7 @@ Trabalho realizado por:
 - Diogo Falcão (Nºmec 108712)
 - José Gameiro (Nºmec 108840)
 
-Nota: Ainda não foi atribuída
+Nota: 16.5
 
 ## Instruções de Compilação e execução
 Para compilar é possível usar os seguintes comandos:
